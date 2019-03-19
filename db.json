@@ -1,0 +1,171 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "FirstName": "Aniket",
+      "LastName": "Neogy",
+      "Email": "aniket.neogy@imaginea.com",
+      "Designation": "Senior Engineer",
+      "PhoneNumber": "8981873777",
+      "Address": [
+        {
+          "PermanentAddress": {
+            "AddressLine1": "My House, My Locality",
+            "AddressLine2": "My Town",
+            "City": "Kolkata",
+            "State": "West Bengal"
+          }
+        },
+        {
+          "TemporaryAddress": {
+            "AddressLine1": "Road Number 11, Mithila Nagar",
+            "AddressLine2": "Banjara Hills",
+            "City": "Hyderabad",
+            "State": "Telangana"
+          }
+        }
+      ],
+      "Skills": [
+        "Java",
+        "Selenium",
+        "Rest Assured",
+        "Python",
+        "Uipath"
+      ]
+    },
+    {
+      "id": 2,
+      "FirstName": "Pooja",
+      "LastName": "Patel",
+      "Email": "pooja.patel@imaginea.com",
+      "Designation": "Engineer",
+      "PhoneNumber": "7861873678",
+      "Address": [
+        {
+          "PermanentAddress": {
+            "AddressLine1": "My House, My Locality",
+            "AddressLine2": "My Town",
+            "City": "XYZ",
+            "State": "ABC"
+          }
+        },
+        {
+          "TemporaryAddress": {
+            "AddressLine1": "Road Number 121, Gachibowli",
+            "AddressLine2": "Indira Nagar",
+            "City": "Hyderabad",
+            "State": "Telangana"
+          }
+        }
+      ],
+      "Skills": [
+        "Python",
+        "Devops",
+        "Unix",
+        "Perl"
+      ]
+    },
+    {
+      "id": 3,
+      "FirstName": "Purna",
+      "LastName": "Jacobs",
+      "Email": "purna.jacobs@imaginea.com",
+      "Designation": "Architect",
+      "PhoneNumber": "7960927654",
+      "Address": [
+        {
+          "PermanentAddress": {
+            "AddressLine1": "My House, My Locality",
+            "AddressLine2": "My Town",
+            "City": "Hyderabad",
+            "State": "Telangana"
+          }
+        },
+        {
+          "TemporaryAddress": {
+            "AddressLine1": "ABC",
+            "AddressLine2": "XYZ",
+            "City": "Hyderabad",
+            "State": "Telangana"
+          }
+        }
+      ],
+      "Skills": [
+        "Python",
+        "Java",
+        "Data Sciences",
+        "AI",
+        "ML",
+        "Hadoop",
+        "Apache Spark",
+        "Scala"
+      ]
+    },
+    {
+      "FirstName": "Rohit",
+      "LastName": "Shetty",
+      "Email": "rohit.shetty@gmail.com",
+      "Designation": "Senior Engineer",
+      "PhoneNumber": "8981873777",
+      "Address": [
+        {
+          "PermanentAddress": {
+            "AddressLine1": "My House, My Locality",
+            "AddressLine2": "My Town",
+            "City": "Kolkata",
+            "State": "West Bengal"
+          }
+        },
+        {
+          "TemporaryAddress": {
+            "AddressLine1": "Road Number 11, Mithila Nagar",
+            "AddressLine2": "Banjara Hills",
+            "City": "Hyderabad",
+            "State": "Telangana"
+          }
+        }
+      ],
+      "Skills": [
+        "Java",
+        "Selenium",
+        "Rest Assured",
+        "Python",
+        "Uipath"
+      ],
+      "id": 4
+    },
+    {
+      "FirstName": "Ananya",
+      "LastName": "Chandra",
+      "Email": "annu.chandu@gmail.com",
+      "Designation": "Senior Engineer",
+      "PhoneNumber": "8981873777",
+      "Address": [
+        {
+          "PermanentAddress": {
+            "AddressLine1": "My House, My Locality",
+            "AddressLine2": "My Town",
+            "City": "Kolkata",
+            "State": "West Bengal"
+          }
+        },
+        {
+          "TemporaryAddress": {
+            "AddressLine1": "Road Number 11, Mithila Nagar",
+            "AddressLine2": "Banjara Hills",
+            "City": "Hyderabad",
+            "State": "Telangana"
+          }
+        }
+      ],
+      "Skills": [
+        "Java",
+        "Selenium",
+        "Rest Assured",
+        "Python",
+        "Uipath"
+      ],
+      "id": 5
+    }
+  ]
+}
